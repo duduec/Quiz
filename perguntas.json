@@ -1,0 +1,222 @@
+[
+    {
+        "Pergunta": "Qual o animal mais alto do mundo?",
+        "Opções": ["Elefante", "Girafa", "Rinoceronte", "Leão"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual é a fórmula química do sal de cozinha?",
+        "Opções": ["NaCl", "H2O", "CO2", "CaCO3"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual é o nome do maior oceano da Terra?",
+        "Opções": ["Atlântico", "Índico", "Pacífico", "Ártico"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Em qual cidade está localizada a famosa Torre Eiffel?",
+        "Opções": ["Roma", "Londres", "Paris", "Berlim"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é o maior país do mundo em extensão territorial?",
+        "Opções": ["China", "Canadá", "Estados Unidos", "Rússia"],
+        "Resposta": 3
+    },
+    {
+        "Pergunta": "Qual o nome da menor peça de xadrez?",
+        "Opções": ["Bispo", "Cavalo", "Peão", "Torre"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+        "Opções": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins", "Neil Armstrong"],
+        "Resposta": 3
+    },
+    {
+        "Pergunta": "Qual é o elemento químico mais abundante no universo?",
+        "Opções": ["Oxigênio", "Carbono", "Hidrogênio", "Hélio"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+        "Opções": ["1935", "1939", "1941", "1945"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual é o maior órgão do corpo humano?",
+        "Opções": ["Coração", "Fígado", "Pele", "Pulmões"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual país é conhecido como a terra do sol nascente?",
+        "Opções": ["China", "Japão", "Coreia do Sul", "Tailândia"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual é a capital da Austrália?",
+        "Opções": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Quem escreveu 'Dom Quixote'?",
+        "Opções": ["Miguel de Cervantes", "William Shakespeare", "Homer", "Leo Tolstoy"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual é o planeta mais próximo do Sol?",
+        "Opções": ["Mercúrio", "Vênus", "Terra", "Marte"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual foi o primeiro filme da Marvel a ultrapassar 1 bilhão de dólares em bilheteria?",
+        "Opções": ["Homem de Ferro", "Vingadores", "Capitão América: Guerra Civil", "Pantera Negra"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Quem pintou o teto da Capela Sistina?",
+        "Opções": ["Leonardo da Vinci", "Vincent Van Gogh", "Michelangelo", "Raphael"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é o menor planeta do sistema solar?",
+        "Opções": ["Marte", "Vênus", "Mercúrio", "Plutão"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é a língua mais falada no mundo?",
+        "Opções": ["Inglês", "Espanhol", "Chinês Mandarim", "Hindi"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é o maior oceano do mundo?",
+        "Opções": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+        "Resposta": 3
+    },
+    {
+        "Pergunta": "Em que país se encontra o monte Everest?",
+        "Opções": ["Índia", "Nepal", "China", "Butão"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual é o esporte mais popular do Brasil?",
+        "Opções": ["Basquete", "Vôlei", "Futebol", "Tênis"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Quem é conhecido como o rei do rock?",
+        "Opções": ["Elvis Presley", "Chuck Berry", "Little Richard", "Buddy Holly"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual a moeda oficial do Japão?",
+        "Opções": ["Yuan", "Won", "Yen", "Dólar"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é a fórmula química da água?",
+        "Opções": ["H2O", "CO2", "NaCl", "O2"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Quem escreveu '1984' e 'A Revolução dos Bichos'?",
+        "Opções": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.K. Rowling"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual é a capital do Canadá?",
+        "Opções": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+        "Opções": ["1965", "1969", "1971", "1973"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual é o maior deserto do mundo?",
+        "Opções": ["Deserto do Saara", "Deserto da Arábia", "Deserto de Gobi", "Antártica"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual é a capital da Islândia?",
+        "Opções": ["Reykjavik", "Oslo", "Copenhague", "Helsinque"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Quem pintou 'A Noite Estrelada'?",
+        "Opções": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Salvador Dalí"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é o metal cujo símbolo químico é 'Au'?",
+        "Opções": ["Prata", "Mercúrio", "Ouro", "Chumbo"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é o maior planeta do sistema solar?",
+        "Opções": ["Terra", "Saturno", "Júpiter", "Marte"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "Opções": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é a montanha mais alta do mundo?",
+        "Opções": ["K2", "Monte Everest", "Monte Fuji", "Mont Blanc"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual a capital da Argentina?",
+        "Opções": ["Lima", "Buenos Aires", "Santiago", "Montevidéu"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual é a principal língua falada no Brasil?",
+        "Opções": ["Espanhol", "Português", "Inglês", "Francês"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Quem escreveu 'Dom Casmurro'?",
+        "Opções": ["Machado de Assis", "José de Alencar", "Carlos Drummond de Andrade", "Jorge Amado"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual é o maior continente do mundo?",
+        "Opções": ["África", "América do Norte", "Ásia", "Europa"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é o menor país do mundo em termos de área?",
+        "Opções": ["Mônaco", "Nauru", "Vaticano", "San Marino"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual é a moeda oficial do Reino Unido?",
+        "Opções": ["Euro", "Dólar", "Libra Esterlina", "Franco"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Qual o animal mais alto do mundo?",
+        "Opções": ["Elefante", "Girafa", "Rinoceronte", "Leão"],
+        "Resposta": 1
+    },
+    {
+        "Pergunta": "Qual é a fórmula química do sal de cozinha?",
+        "Opções": ["NaCl", "H2O", "CO2", "CaCO3"],
+        "Resposta": 0
+    },
+    {
+        "Pergunta": "Qual é o nome do maior oceano da Terra?",
+        "Opções": ["Atlântico", "Índico", "Pacífico", "Ártico"],
+        "Resposta": 2
+    },
+    {
+        "Pergunta": "Em qual cidade está localizada a famosa Torre Eiffel?",
+        "Opções": ["Roma", "Londres", "Paris", "Berlim"],
+        "Resposta": 2
+    }
+]
